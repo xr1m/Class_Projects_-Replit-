@@ -1,10 +1,10 @@
-# Assigning Values:
+# Assigning Values/Number:
 
 number = int(input("Enter a number: "))
 
 # Calculating the square root:
 
-answer = (number ** (0.5))
+answer = (number ** (1/2))
 
 # Printing the result:
 
